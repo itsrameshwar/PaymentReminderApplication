@@ -13,3 +13,4 @@ These are the following tasks that you have to do ASAP
 3. Create an initial release date.
 4. Please feel free to reach me if you face any kind of trouble regarding the project.
 I shall be available from 12:00 - 01:00 p.m everyday in my cabin. Plus, you are supposed to have a discussion about the current status of the project every Saturday and keep a record of it. You could also send me an email about any problems/queries.
+```
